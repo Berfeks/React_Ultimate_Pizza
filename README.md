@@ -10,4 +10,4 @@
 - Axios
 - classNames
 
-Thanks https://www.youtube.com/watch?v=Ix9iV72GMKg&ab_channel=ArchakovBlog for your lessons✌
+Thanks https://www.youtube.com/watch?v=Ix9iV72GMKg&ab_channel=ArchakovBlog for your lessons
